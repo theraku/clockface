@@ -1,0 +1,20 @@
+{
+  "name": "ngClockFace",
+  "main": [
+    "js/clockface.js",
+    "css/clockface.css"
+  ],
+  "keywords": [
+    "twitter",
+    "bootstrap",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "test"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
