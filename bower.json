@@ -1,5 +1,5 @@
 {
-  "name": "ngClockFace",
+  "name": "ng-clock-face",
   "main": [
     "js/clockface.js",
     "css/clockface.css"
